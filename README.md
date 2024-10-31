@@ -8,5 +8,5 @@
 - 🔭 Estudante de Física e de Análise e Desenvolvimento de Sistema
 
 
-  ![Bulbasaur](https://i.pinimg.com/564x/69/23/1b/69231b9bab153f486d06491f5521e3d7.jpg)
+  ![Bulbasaur](https://i.pinimg.com/originals/e6/2d/60/e62d608a95a0797201c543f8f28e33c8.gif)
 
