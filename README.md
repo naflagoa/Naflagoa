@@ -1,4 +1,4 @@
-# Olá, eu sou a Carol 👋
+# Olá, eu sou a Carol 
 
 **Analista de Dados | Aspiring Data Scientist**
 
@@ -6,19 +6,19 @@ Especialista em transformar dados brutos em insights estratégicos. Utilizo **Py
 
 ---
 
-### 🛠️ Core Stack (Dados & Ciência)
+###  Core Stack (Dados & Ciência)
 - **Análise & Modelagem:** Python (Pandas, NumPy), SQL (PostgreSQL/MySQL), DAX.
 - **Visualização:** Power BI, Matplotlib, Seaborn.
 - **Estatística & ML:** Scikit-Learn, Testes de Hipóteses, Regressões.
 
 ---
 
-### 🎓 Formação & Diferencial
+###  Formação & Diferencial
 * **Análise e Desenvolvimento de Sistemas:** Foco em arquitetura de dados e lógica de programação.
 * **Física:** Base sólida em métodos quantitativos e modelagem matemática aplicados à análise de dados.
 
 ---
 
-### 📫 Contato
+###  Contato
 - [LinkedIn](www.linkedin.com/in/carolina-segôa-6a6358161)
 - [Email](mailto:carolina30segoa@gmail.com)
