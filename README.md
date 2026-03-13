@@ -1,12 +1,24 @@
-## Olá, eu sou a Carol
+# Olá, eu sou a Carol 👋
 
+**Analista de Dados | Aspiring Data Scientist**
 
-- 📈 Eu sou estágiária de Power BI e de Análise de Dados
-- 🌱 Python, SQL e Linguagem DAX.
-- 📫 Meu email para contato é carolina30segoa@gmail.com
-- 😄 Pronouns: Ela/Dela
-- 🔭 Estudante de Física e de Análise e Desenvolvimento de Sistema
+Especialista em transformar dados brutos em insights estratégicos. Utilizo **Python, SQL e Power BI** para modelagem de dados e análise estatística. Atualmente, foco meus estudos em Machine Learning, focando em modelos preditivos e análise de grandes volumes de dados.
 
+---
 
-  ![Bulbasaur](https://i.pinimg.com/564x/91/8b/52/918b5278208d46bdd332929fe7b9795d.jpg)
+### 🛠️ Core Stack (Dados & Ciência)
+- **Análise & Modelagem:** Python (Pandas, NumPy), SQL (PostgreSQL/MySQL), DAX.
+- **Visualização:** Power BI, Matplotlib, Seaborn.
+- **Estatística & ML:** Scikit-Learn, Testes de Hipóteses, Regressões.
 
+---
+
+### 🎓 Formação & Diferencial
+* **Análise e Desenvolvimento de Sistemas:** Foco em arquitetura de dados e lógica de programação.
+* **Física:** Base sólida em métodos quantitativos e modelagem matemática aplicados à análise de dados.
+
+---
+
+### 📫 Contato
+- [LinkedIn](www.linkedin.com/in/carolina-segôa-6a6358161)
+- [Email](mailto:carolina30segoa@gmail.com)
