@@ -2,7 +2,7 @@
 
 **Analista de Dados | Aspiring Data Scientist**
 
-Especialista em transformar dados brutos em insights estratégicos. Utilizo **Python, SQL e Power BI** para modelagem de dados e análise estatística. Atualmente, foco meus estudos em Machine Learning, focando em modelos preditivos e análise de grandes volumes de dados.
+Boa em transformar dados brutos em insights estratégicos. Utilizo **Python, SQL e Power BI** para modelagem de dados e análise estatística. Atualmente, foco meus estudos em Machine Learning, focando em modelos preditivos e análise de grandes volumes de dados.
 
 ---
 
