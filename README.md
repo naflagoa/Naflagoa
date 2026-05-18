@@ -15,7 +15,7 @@ Boa em transformar dados brutos em insights estratégicos. Utilizo **Python, SQL
 
 ###  Formação & Diferencial
 * **Análise e Desenvolvimento de Sistemas:** Foco em arquitetura de dados e lógica de programação.
-* **Física:** Base sólida em métodos quantitativos e modelagem matemática aplicados à análise de dados.
+* **Estatística:** Base sólida em métodos quantitativos e modelagem matemática aplicados à análise de dados.
 
 ---
 
